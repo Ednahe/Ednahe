@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je suis Emmanuel</h1>
 <h3 align="center">Un développeur bordelais</h3>
 
-- 🌱 Je me perfectionne sur **javascript, React et Angular**
+- 🌱 Je pratique : **javascript, php, react, angular, node**
 
 - 👯 Je collabore en ce moment sur **Une application de gestion à destination des associations**
 
