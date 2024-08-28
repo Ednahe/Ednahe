@@ -3,7 +3,7 @@
 
 - 🌱 Je pratique : **javascript, php, react, angular, node**
 
-- 👯 Je collabore en ce moment sur **Une application de gestion à destination des associations**
+- 👯 Je collabore en ce moment sur **Une api node.js et le front-end de la start-up rendez-vous parfait**
 
 - 👨‍💻 Jeter un œil à mon portfolio : [https://portfolio-emmanuel.netlify.app/](https://portfolio-emmanuel.netlify.app/)
 
