@@ -1,9 +1,7 @@
 <h1 align="center">Salut 👋, je suis Emmanuel</h1>
 <h3 align="center">Un développeur bordelais</h3>
 
-- 🌱 Je pratique : **javascript, php, react, angular, node**
-
-- 👯 Je collabore en ce moment sur **Une application de messagerie musicale et le front-end de la start-up rendez-vous parfait**
+- 🌱 Je pratique : **javascript, php, python, react, angular, node**
 
 - 👨‍💻 Jeter un œil à mon portfolio : [https://portfolio-emmanuel.netlify.app/](https://portfolio-emmanuel.netlify.app/)
 
